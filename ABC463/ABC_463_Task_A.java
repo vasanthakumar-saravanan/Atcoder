@@ -1,7 +1,7 @@
 import java.util.*;
 public class ABC_463_Task_A{
     public static void  main(String[] args){
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);            //https://atcoder.jp/contests/abc463/tasks/abc463_a
         int n =sc.nextInt();
         int m = sc.nextInt();
         if(n%16 ==0 && m%9 ==0){
