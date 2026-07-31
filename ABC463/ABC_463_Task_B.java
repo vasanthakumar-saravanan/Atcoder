@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ABC_463_Task_B{
+public class ABC_463_Task_B{                                        //https://atcoder.jp/contests/abc463/tasks/abc463_b
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
